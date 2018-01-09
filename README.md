@@ -27,7 +27,7 @@ Kibana: http://localhost:5601
 Elasticsearch: http://localhost:9200  
 Adminer: http://localhost:8080  
 * PostgreSQL user: admin
-* PostgreSQL passowrd: admin
+* PostgreSQL password: admin
 
 #### Working with docker
 Launch containers:  
